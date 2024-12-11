@@ -1,0 +1,6 @@
+:root {
+  --brand-color: #162d50;
+  --primary: var(--brand-color) !important;
+  --success: var(--brand-color) !important;
+  --link: var(--brand-color) !important;
+}
